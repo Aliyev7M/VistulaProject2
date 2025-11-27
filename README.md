@@ -18,18 +18,6 @@ Get -       GET "/" - We are listing all the products that we have.
 Delete -    DELETE "/{id}" - We are getting specific product and delete it from our Database.
 
 
-How to Run the Project
+How to Clone the Project
 i) Clone the repository
-git clone <repository-url>
-
-Then :
-1)Navigate into the project
-cd product-backend
-or
-2)Run it from IDE
-
-
-
-Run Spring Boot
-
-mvn spring-boot:run
+git clone https://github.com/Aliyev7M/VistulaProject2
